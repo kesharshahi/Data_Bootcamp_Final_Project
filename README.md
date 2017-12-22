@@ -18,3 +18,11 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 the project and course.
 
 Project Description
+
+Founded in 2008, Airnb now has more than 150 million users. The online marketplace and hospitality service spans across 65000 cities in 191 countries. This service has now hosts more than half million guests away from their home. The  [projected](https://expandedramblings.com/index.php/airbnb-statistics/) revenue for the company is more than $2.8 Billion in 2017. Disrupting the hotel industry world-wide, Airbnb has now change the way people travel. As there are more than 4 million listings around the globe, it certainly has become more like an easy alternative to a hotel stay.
+
+But what does these Airbnb stays’ price reflects? As many of these listings are part of people’s own house or apartment, the pricing is certainly derived from a different calculation than a hotel’s room price. 
+
+In this project, I would like to see the prices of these listing in different cities around the world and compare them with the income level of those host cities and their living indexes.
+
+Can a person with an average income of a particular city afford an Airbnb stay in the same city? I would like to find relation between income levels of a city and Airbnb stays.
